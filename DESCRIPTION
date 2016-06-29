@@ -4,6 +4,9 @@ Title: Hardiman and Katzir Estimator for RDS chains
 Version: 0.1.0
 Author: Jacob C. Fisher
 Maintainer: Jake Fisher <jcf26@duke.edu>
-Description: Calculates the Hardiman and Katzir estimator for the clustering coefficient in random walks.  Generally intended for application to respondent-driven sampling (RDS) data
+Description: Calculates the Hardiman and Katzir estimator for the clustering
+    coefficient in random walks. Generally intended for application to respondent-
+    driven sampling (RDS) data
 License: GPL-3.0
 LazyData: TRUE
+RoxygenNote: 5.0.1
