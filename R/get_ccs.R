@@ -2,6 +2,8 @@
 #'
 #' @param net: an adjacency matrix
 #'
+#' @export getccs
+#'
 #' @return a named vector with the local and global clustering coefficients
 getccs <- function(net) {
   # Local clustering coefficient

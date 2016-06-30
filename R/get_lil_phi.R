@@ -5,6 +5,8 @@
 #'
 #' @details WARNING: no checks on inputs, use with caution!
 #'
+#' @export getlilphi
+#'
 #' @return a matrix, the estimate of \eqn{\phi}
 #'
 getlilphi <- function(data, net) {

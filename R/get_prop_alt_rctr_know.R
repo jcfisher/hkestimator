@@ -3,6 +3,8 @@
 #' @param data: a data.frame
 #' @param net: an adjacency matrix
 #'
+#' @export getpropaltrctrknow
+#'
 #' @return a matrix, little phi?
 
 getpropaltrctrknow <- function(data, net) {

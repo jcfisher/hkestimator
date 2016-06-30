@@ -6,6 +6,8 @@
 #' @param deg: a numeric vector of degree values for each recruit
 #' @param net: the adjacency matrix for the network
 #'
+#' @export HardimanKatzirCCs
+#'
 #' @return A named, numeric list containing the various clustering coefficients
 
 HardimanKatzirCCs <- function(recruiter, recruit, recruitee, deg, net) {
